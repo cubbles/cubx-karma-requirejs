@@ -1,6 +1,6 @@
 # cubx-karma-requirejs 
 
-> Adapter for the [RequireJS](http://requirejs.org/) framework, updatet for cubixx platform.
+> Adapter for the [RequireJS](http://requirejs.org/) framework, updated for cubixx platform.
 
 Check out examples on how to configure RequireJS with Karma:
 - Karma's e2e test https://github.com/karma-runner/karma/tree/master/test/e2e/requirejs
