@@ -3,15 +3,9 @@
   "version": "1.0.5",
   "description": "A Karma plugin. Adapter for RequireJS framework. Udatet for cubixx, based on version 0.2.2",
   "main": "lib/index.js",
-  "publishConfig": {
-    "registry": "https://npm.webblebase.net:444"
-  },
-  "scripts": {
-    "test": "grunt test"
-  },
   "repository": {
     "type": "git",
-    "url": "https://pmt.incowia.de/webble/r/client/utilities/cubx-karma-requirejs.git"
+    "url": "https://github.com/cubbles/cubx-karma-requirejs.git"
   },
   "keywords": [
     "karma-plugin",
@@ -23,7 +17,7 @@
     "email": "judit.ross@incowia.com"
   },
   "dependencies": {
-    "cubx-requirejs": "https://npm.webblebase.net:444/cubx-requirejs/-/cubx-requirejs-1.0.0.tgz"
+    "cubx-requirejs": "^1.0.2"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
